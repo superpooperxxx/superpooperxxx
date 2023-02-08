@@ -10,10 +10,10 @@
 
 <h2>💎 Skills and Tools</h2>
 <h3>🧚‍♀️ Front end</h3>
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
           
-          
+<br>
 
 - 🌱 I’m currently learning **Node.js, Express.js, GSAP**
 
