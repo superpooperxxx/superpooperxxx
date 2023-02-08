@@ -56,7 +56,9 @@
 <br>
 
 <h1>🥳 Contact me:</h1>
-<a href="mailto:haidukwork@gmail.com"><img width="30px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
+<a href="mailto:haidukwork@gmail.com"><img width="40px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
+<a href="https://www.linkedin.com/in/kyrylo-haiduk/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a> href="https://t.me/haidukwork"><img src="https://img.icons8.com/color/96/null/telegram-app--v1.png"/></a>
 
 - 📫 How to reach me **haidukwork@gmail.com**
 
