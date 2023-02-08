@@ -8,6 +8,8 @@
 
 ---
 
+<h2>💎 Skills and Tools</h2>
+
 - 🌱 I’m currently learning **Node.js, Express.js, GSAP**
 
 - 📫 How to reach me **haidukwork@gmail.com**
