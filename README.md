@@ -51,10 +51,12 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <br>
+  <br>
 </div>
-<br>
-<br>
-###
+
+---
+
 <h1>🥳 Contact me:</h1>
 <a href="mailto:haidukwork@gmail.com"><img width="40px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
 <a href="https://www.linkedin.com/in/kyrylo-haiduk/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
