@@ -52,14 +52,11 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 </div>
-
-
-
-
-<br>       
 <br>
 <br>
 
+<h1>🥳 Contact me:</h1>
+<div><img src="https://img.icons8.com/color/96/null/gmail--v1.png"/>: **haidukwork@gmail.com**</div>
 - 📫 How to reach me **haidukwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
