@@ -28,7 +28,7 @@
 <h3>🤖 Other tools</h3>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img width="50px" src="https://img.icons8.com/ios-glyphs/60/000000/github.png"/>
+  <img width="50px" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png"/>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
