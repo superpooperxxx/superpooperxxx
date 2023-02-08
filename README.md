@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Kyrylo Haiduk</h1>
-<h4>Full stack developer with 1 year of practice, who is in love with creating high-performance and unique websites and web apps. I also have a master's degree in Automation and Computer-Integrated technologies. Both my diploma and dissertation projects were developed using Convolutional Neural Networks and Computer vision (Python). 
+<h3>Full stack developer with 1 year of practice, who is in love with creating high-performance and unique websites and web apps. I also have a master's degree in Automation and Computer-Integrated technologies. Both my diploma and dissertation projects were developed using Convolutional Neural Networks and Computer vision (Python). 
 
   <br>
   <br>
   My 🇬🇧 level is upper-intermediate (IELTS 6.5)
-</h4>
+</h3>
 <br>
 <br>
 
@@ -44,7 +44,7 @@
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img width="40px" src="https://img.icons8.com/ios/50/000000/express-js.png" />
+  <img width="40px" ssrc="https://img.icons8.com/ios/50/000000/express-js.png"/>
 </div>
 <h2>👴🏻 I used to code with...</h2>
 <div>
