@@ -1,7 +1,9 @@
 <h1>Hi 👋, I'm Kyrylo Haiduk</h1>
 <h4>Full stack developer with 1 year of practice, who is in love with creating high-performance and unique websites and web apps. I also have a master's degree in Automation and Computer-Integrated technologies. Both my diploma and dissertation projects were developed using Convolutional Neural Networks and Computer vision (Python). 
 
-  <div><br>My 🇬🇧 level is upper-intermediate (IELTS 6.5)/<div>
+  <br>
+  <br>
+  My 🇬🇧 level is upper-intermediate (IELTS 6.5)
 </h4>
 
 ---
