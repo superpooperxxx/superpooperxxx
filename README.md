@@ -9,7 +9,7 @@
 ---
 
 <h1>💎 Skills and Tools</h1>
-<h3>🧚‍♀️ Front end</h3>
+<h2>🧚‍♀️ Front end</h2>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -21,11 +21,11 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img width="50px" src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" />
 </div>
-<h3>🫡 Back end</h3>
+<h2>🫡 Back end</h2>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-<h3>🤖 Other tools</h3>
+<h2>🤖 Other tools</h2>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img width="50px" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png"/>
@@ -34,17 +34,17 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
-<h3>👨🏻‍🎓 Currently studying</h3>
+<h2>👨🏻‍🎓 Currently studying</h2>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-<h3>🔮 Future plans</h3>
+<h2>🔮 Future plans</h2>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
 </div>
-<h3>👴🏻 I used to code with...</h3>
+<h2>👴🏻 I used to code with...</h2>
 <div>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
