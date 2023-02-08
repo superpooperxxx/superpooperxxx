@@ -17,10 +17,14 @@
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" width="50px" src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" />
+<br>
+
+<h3>🫡 Back end</h3>
 
 
 
-          
+<br>       
+<br>
 <br>
 
 - 🌱 I’m currently learning **Node.js, Express.js, GSAP**
