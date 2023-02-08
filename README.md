@@ -11,7 +11,7 @@
 <h1>💎 Skills and Tools</h1>
 <h2>🧚‍♀️ Front end</h2>
 <div>
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
@@ -60,11 +60,7 @@
 <a href="https://www.linkedin.com/in/kyrylo-haiduk/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://t.me/haidukwork"><img width="40px" src="https://img.icons8.com/color/96/null/telegram-app--v1.png"/></a>
 
-- 📫 How to reach me **haidukwork@gmail.com**
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyrylo-haiduk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyrylo-haiduk/" height="30" width="40" /></a>
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superpooperxxx&show_icons=true&locale=en&layout=compact" alt="superpooperxxx" /></p>
