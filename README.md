@@ -1,5 +1,9 @@
 # Full Stack developer from Ukraine🇺🇦
 
+Full stack developer, who is in love with creating high-performance and unique websites and web apps. I also have a master's degree in Automation and Computer-Integrated technologies. Both my diploma and dissertation projects were developed using Convolutional Neural Networks and Computer vision (Python). 
+My English🇬🇧 level is upper-intermediate (IELTS 6.5).
+
+
 <!--
 **superpooperxxx/superpooperxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
