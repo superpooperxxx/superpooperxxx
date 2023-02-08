@@ -63,10 +63,11 @@
 <a href="mailto:haidukwork@gmail.com"><img width="40px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
 <a href="https://www.linkedin.com/in/kyrylo-haiduk/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://t.me/haidukwork"><img width="40px" src="https://img.icons8.com/color/96/null/telegram-app--v1.png"/></a>
+<br>
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superpooperxxx&show_icons=true&theme=radical)
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superpooperxxx&show_icons=true&locale=en&layout=compact" alt="superpooperxxx" /></p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=superpooperxxx&show_icons=true&locale=en&layout=compact" alt="superpooperxxx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superpooperxxx&show_icons=true&locale=en" alt="superpooperxxx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=superpooperxxx&show_icons=true&locale=en" alt="superpooperxxx" /></p> -->
