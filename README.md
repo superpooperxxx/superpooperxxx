@@ -5,13 +5,15 @@
   <br>
   My 🇬🇧 level is upper-intermediate (IELTS 6.5)
 </h4>
+<br>
+<br>
 
 ---
 
 <h1>💎 Skills and Tools</h1>
 <h2>🧚‍♀️ Front end</h2>
 <div>
-  <img width="50px" style="margin-right: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
