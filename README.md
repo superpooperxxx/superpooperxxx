@@ -56,7 +56,8 @@
 <br>
 
 <h1>🥳 Contact me:</h1>
-<div><img src="https://img.icons8.com/color/96/null/gmail--v1.png"/>: **haidukwork@gmail.com**</div>
+<img width="30px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/>
+<h3>**haidukwork@gmail.com**</h3>
 - 📫 How to reach me **haidukwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
