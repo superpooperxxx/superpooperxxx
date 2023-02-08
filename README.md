@@ -9,6 +9,11 @@
 ---
 
 <h2>💎 Skills and Tools</h2>
+<h3>🧚‍♀️ Front end</h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+          
+          
 
 - 🌱 I’m currently learning **Node.js, Express.js, GSAP**
 
