@@ -44,7 +44,7 @@
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img width="40px" style="background-color: #fff;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
+  <img width="40px" src="https://img.icons8.com/color/48/000000/express-js.png"/>    
 </div>
 <h2>👴🏻 I used to code with...</h2>
 <div>
