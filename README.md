@@ -22,6 +22,9 @@
   <img width="50px" src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" />
 </div>
 <h3>🫡 Back end</h3>
+<div>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
 
 
 
