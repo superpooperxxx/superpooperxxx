@@ -61,9 +61,9 @@
 
 <h1>🥳 Contact me:</h1>
 <div>
-  <a href="mailto:haidukwork@gmail.com" target="_blank"><img width="40px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
-  <a href="https://www.linkedin.com/in/kyrylo-haiduk/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <a href="https://t.me/haidukwork" target="_blank"><img width="40px" src="https://img.icons8.com/color/96/null/telegram-app--v1.png"/></a>
+  <a href="mailto:haidukwork@gmail.com"><img width="40px" src="https://img.icons8.com/color/96/null/gmail--v1.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/kyrylo-haiduk/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a target="_blank" href="https://t.me/haidukwork"><img width="40px" src="https://img.icons8.com/color/96/null/telegram-app--v1.png"/></a>
 </div>
 
 <br>
