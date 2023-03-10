@@ -26,6 +26,7 @@
 <h2>🫡 Back end</h2>
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="40px" src="https://img.icons8.com/color/96/000000/express-js.png"/>  
 </div>
 <h2>🤖 Other tools</h2>
 <div>
@@ -43,8 +44,7 @@
 <h2>🔮 Future plans</h2>
 <div>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img width="40px" src="https://img.icons8.com/color/96/000000/express-js.png"/>    
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />  
 </div>
 <h2>👴🏻 I used to code with...</h2>
 <div>
